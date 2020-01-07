@@ -3,6 +3,6 @@
     <jsp:param name="page_title" value="asendium/calaulator/investment"/>
 </jsp:include>
 
-<p>Not Implemented Yet</p>
+<p>Investment - Not Implemented Yet</p>
 
 <jsp:include page="footer.jsp" />
