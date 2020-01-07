@@ -63,3 +63,8 @@ body,html,.main-display-area,.tab-content,.tab-pane,iframe,.row{
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.logofont {
+    font-style: italic;
+    font-size: 23px;
+}
