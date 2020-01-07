@@ -10,7 +10,7 @@
             "The aim of the calculator is to have an output that accurately reflects the financial condition of the client all while proposing different methods to alter the results."
         </p>
         <p class="lead mb-0">
-            <a hre="#" class="text-white font-weight-bold">Try this!</a>
+            <a hre="common.jsp" class="text-white font-weight-bold">Try it</a>
         </p>
     </div>
 </div>
