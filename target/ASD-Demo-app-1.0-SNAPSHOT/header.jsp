@@ -46,14 +46,14 @@ String title = request.getParameter("page_title");
             </header>
         <div class="nav-scroller py-1 mb-2">
             <nav class="nav d-flex justify-content-between">
-                <a class="p-2 text-muted" href="#">Common</a>
-                <a class="p-2 text-muted" href="#">Cashflow</a>
-                <a class="p-2 text-muted" href="#">Investment</a>
-                <a class="p-2 text-muted" href="#">Debt</a>
-                <a class="p-2 text-muted" href="#">Insurance</a>
-                <a class="p-2 text-muted" href="#">Superannuation</a>
-                <a class="p-2 text-muted" href="#">Retirement</a>
-                <a class="p-2 text-muted" href="#">Centerlink</a>
+                <a class="p-2 text-muted" href="common.jsp">Common</a>
+                <a class="p-2 text-muted" href="cashflow.jsp">Cashflow</a>
+                <a class="p-2 text-muted" href="investment.jsp">Investment</a>
+                <a class="p-2 text-muted" href="debt.jsp">Debt</a>
+                <a class="p-2 text-muted" href="insurance.jsp">Insurance</a>
+                <a class="p-2 text-muted" href="superannuation.jsp">Superannuation</a>
+                <a class="p-2 text-muted" href="retirement.jsp">Retirement</a>
+                <a class="p-2 text-muted" href="centrelink.jsp">Centrelink</a>
             </nav>
         </div>
             

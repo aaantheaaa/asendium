@@ -1,6 +1,6 @@
 
 <jsp:include page="header.jsp">
-    <jsp:param name="page_title" value="Asendium/Calaulator"/>
+    <jsp:param name="page_title" value="asendium/calaulator"/>
 </jsp:include>
 
 <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
